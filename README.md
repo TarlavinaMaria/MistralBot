@@ -6,7 +6,7 @@
 
 1. Клонируйте репозиторий:
     ```
-    git clone https://github.com/yourusername/mistral-ai-chat-app.git
+    git clone https://github.com/TarlavinaMaria/MistralBot.git
     cd mistral-ai-chat-app
     ```
 
