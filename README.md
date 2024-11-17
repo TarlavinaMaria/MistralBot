@@ -8,7 +8,6 @@
 1. Клонируйте репозиторий:
     ```
     git clone https://github.com/TarlavinaMaria/MistralBot.git
-    cd mistral-ai-chat-app
     ```
 
 2. Установите необходимые библиотеки:
